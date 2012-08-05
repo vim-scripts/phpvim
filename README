@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4159
+
+This script is based on Paul Garvin's vimuser 5.3 script vimscript #2874. Thanks for his script generator.
+
+This is an updated version of the php.vim syntax file distributed with VIM. The list of PHP constants, functions, and classes was updated to be current with PHP 5.4
+
